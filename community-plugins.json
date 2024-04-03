@@ -1,4 +1,6 @@
 [
   "dataview",
-  "calendar"
+  "calendar",
+  "obsidian-hide-sidebars-when-narrow",
+  "obsidian-auto-hide"
 ]
